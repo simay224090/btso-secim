@@ -1,0 +1,11 @@
+# .NET (Backend)
+bin/
+obj/
+appsettings.Development.json
+
+# React (Frontend)
+node_modules/
+frontend/node_modules/
+dist/
+build/
+.env
