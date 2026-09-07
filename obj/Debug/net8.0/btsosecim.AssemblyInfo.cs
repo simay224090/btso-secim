@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("btsosecim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f41e10be2ed39ad059f37263d002a75d0cd3bea0")]
 [assembly: System.Reflection.AssemblyProductAttribute("btsosecim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("btsosecim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

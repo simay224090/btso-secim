@@ -116,3 +116,4 @@
 /Users/simaycaliskan/projelerim/btsosecim/obj/Debug/net8.0/btsosecim.pdb
 /Users/simaycaliskan/projelerim/btsosecim/obj/Debug/net8.0/btsosecim.genruntimeconfig.cache
 /Users/simaycaliskan/projelerim/btsosecim/obj/Debug/net8.0/ref/btsosecim.dll
+/Users/simaycaliskan/projelerim/btsosecim/obj/Debug/net8.0/btsosecim.sourcelink.json
